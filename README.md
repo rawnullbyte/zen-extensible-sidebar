@@ -1,4 +1,4 @@
-# Sidebar Expand on Hover V2
+# Extensible sidebar
 
 <img src="screenshot.png">
 
